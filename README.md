@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, a Node.js engineer here!</h1>
 <h3 align="center">Developing with the latest high-profile technologies from scratch</h3>
 
