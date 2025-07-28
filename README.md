@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, a Node.js engineer here!</h1>
 <h3 align="center">Developing with the latest high-profile technologies from scratch</h3>
 
-- 🔭 I’m currently working on [RESTful API boilerplate (Nestjs)](https://github.com/janlibal/boilerplate-backend-nest-api-v2)
-- 🔭 I’m currently working on [GraphQL API boilerplate (Nestjs)](currently in private zone)
+- 🔭 I’m currently working on [RESTful API boilerplate (Nestjs) v2](https://github.com/janlibal/boilerplate-backend-nest-api-v2)
+- 🔭 I’m currently working on [GraphQL API boilerplate (Nestjs) v1](currently in private zone)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
